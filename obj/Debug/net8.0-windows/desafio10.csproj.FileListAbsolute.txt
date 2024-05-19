@@ -1,0 +1,4 @@
+C:\Users\mynor\OneDrive\Escritorio\practricas\desafio10\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\mynor\OneDrive\Escritorio\practricas\desafio10\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\mynor\OneDrive\Escritorio\practricas\desafio10\obj\Debug\net8.0-windows\desafio10_MarkupCompile.cache
+C:\Users\mynor\OneDrive\Escritorio\practricas\desafio10\obj\Debug\net8.0-windows\desafio10_MarkupCompile.lref
